@@ -1,6 +1,5 @@
 const Trail = require('../../models/Trail');
 const Review = require('../../models/Review');
-
 const trailRawData = require('../data/trailRaw.json');
 const reviewRawData = require('../data/reviewRaw.json');
 
