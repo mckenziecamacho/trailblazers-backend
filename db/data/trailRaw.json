@@ -1,0 +1,263 @@
+
+[
+    {
+        "name": "Mt. Frissell Trail",
+        "location": "Salisbury,CT",
+        "image": "../assets/mount-frissell.jpeg",
+        "difficulty": "Difficult",
+        "miles": 2.7,
+        "terrain":"rugged path",
+        "duration": "2h:24min",
+        "overview": "This trail travels to the highest point in Connecticut via an ascent of Mount Frissell. The high point in Connecticut is not actually the peak of Mount Frissell, but further down the trail. A guest book can be found at the peak and the Connecticut High Point.",
+        "website":"https://www.alltrails.com/trail/us/massachusetts/mount-frissell-and-brace-mountain-loop-trail"
+    },
+
+    {
+        "name": "Metacomet Trail",
+        "location": "Meriden, CT",
+        "image": "../assets/Metacomet.jpeg",
+        "difficulty": "Intermediate/Difficult",
+        "miles": 57.6,
+        "terrain":"path to rugged",
+        "duration": "2h:24min",
+        "overview": "The Metacomet Trail follows the striking traprock ridge from the Hanging Hills of Meriden to the Massachusetts border. While offering a wide variety of terrain, this trail affords incredible views, features historic landmarks, and offers the opportunity to observe a variety of wildlife.  Hikers will intersect well known and iconic landmarks on the trail including Castle Craig in Hubbard Park, Hill-Stead Museum in Farmington, and the Heublein Tower in Talcott Mountain State Park in Simsbury",
+        "website":"https://www.ctwoodlands.org/blue-blazed-hiking-trails/metacomet-trail"
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    },
+
+    {
+        "name": "",
+        "location": "",
+        "image": "",
+        "difficulty": "",
+        "miles": 0,
+        "terrain":"",
+        "duration": "2h:24min",
+        "overview": "",
+        "website":""
+    }
+
+
+
+
+
+]
+
+
+
+
