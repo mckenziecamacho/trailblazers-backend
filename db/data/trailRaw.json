@@ -25,236 +25,100 @@
     },
 
     {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
+        "name": "Farmington Canal Heritage Trail",
+        "location": "Farmington, CT",
+        "image": "../assets/farmington-canal.jpg",
+        "difficulty": "easy",
+        "miles":20.8,
+        "terrain":"paved",
+        "duration": "7h:21min",
+        "overview": "The Farmington Canal Heritage Trail (FCHT) and the Farmington River Trail constitute the most picturesque and historic greenways in New England. The Connecticut section from New Haven to Suffield runs through eleven towns and connects with many more biking and walking trails. The FCHT has been designated a Community Millennium Trail under the federal Millennium Trails Initiative based upon its special value to the communities it serves.",
+        "website":"https://fchtrail.org/"
     },
 
     {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
+        "name": "Ferry Landing Boardwalk",
+        "location": "Old Saybrook, CT",
+        "image": "../assets/old-saybrook.jpeg",
+        "difficulty": "easy",
+        "miles": 0.6,
+        "terrain":"flat boardwalk",
+        "duration": "0h:12min",
+        "overview": "This boardwalk is located on the grounds of Connecticut's Department of Energy and Environmental Protection Maritime Headquarters also known as Ferry Landing State Park. The trail begins on the bank of the river up past the state's marina. It continues on the ground past the headquarters building where it meets a green space with a gazebo. After passing the gazebo area, the boardwalk leaves solid ground and goes over the water. It continues underneath the railroad bridge.",
+        "website":"https://www.ctvisit.com/listings/ferry-landing-state-park"
     },
 
     {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
+        "name": "Castle Craig",
+        "location": "Meriden",
+        "image": "../assets/castle-craig.jpeg",
+        "difficulty": "moderate",
+        "miles": 2.8,
+        "terrain":"rugged",
+        "duration": "2h:01min",
+        "overview": "At just under 3-miles round-trip, this out-and-back hike is a great option for a quick outing or for families with young children or beginner hikers. The climb ends at East Peak where you'll find the unique vantage point of Castle Craig, a stone observation tower reminiscent of a Middle Age castle.",
+        "website":"https://scenesfromthetrail.com/2019/04/14/castle-craig-loop-hubbard-park/"
     },
 
     {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
+        "name": " Ragged Mountain Loop",
+        "location": "Berlin, CT",
+        "image": "../assets/ragged-mountain-loop.jpeg",
+        "difficulty": "Difficult",
+        "miles": 5.6,
+        "terrain":"rugged",
+        "duration": "2h:30min",
+        "overview": "Get to know this 5.6-mile loop trail near Berlin, Connecticut. Generally considered a moderately challenging route, it takes an average of 2 h 28 min to complete. This is a very popular area for birding, hiking, and mountain biking, so you'll likely encounter other people while exploring. The trail is open year-round and is beautiful to visit anytime. Dogs are welcome, but must be on a leash.",
+        "website":"https://www.alltrails.com/trail/us/connecticut/ragged-mountain-blue-and-red-blazed-loop"
     },
 
     {
-        "name": "",
-        "location": "",
-        "image": "",
+        "name": "Bluff Point Coastal Reserve Trail",
+        "location": "Groton, CT",
+        "image": "../assets/bluff-point-coastal.jpeg",
         "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
+        "miles": 3.6,
+        "terrain":"gravel path",
+        "duration": "1h:20min",
+        "overview": "Enjoy this 3.6-mile loop trail near Groton, Connecticut. Generally considered an easy route, it takes an average of 1 h 20 min to complete. This is a very popular area for birding, fishing, and hiking, so you'll likely encounter other people while exploring. The best times to visit this trail are April through October. Dogs are welcome, but must be on a leash.",
+        "website":"https://portal.ct.gov/DEEP/State-Parks/Parks/Bluff-Point-State-Park"
     },
 
     {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
+        "name": "Roxbury Mines",
+        "location": "Roxbury, CT",
+        "image": "../assets/roxbury-mines.jpeg",
+        "difficulty": "difficult",
+        "miles": 3.6,
+        "terrain":"varied",
+        "duration": "1h:35min",
+        "overview": "Explore this loop trail near Roxbury, Connecticut. Generally considered a moderately challenging route. This is a very popular area for birding, hiking, and walking, so you'll likely encounter other people while exploring. The best times to visit this trail are April through September.",
+        "website":"https://www.roxburylandtrust.org/preserves/mine-hill/"
     },
 
     {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
+        "name": "Sleeping Giant Tower Trail",
+        "location": "Handen, CT",
+        "image": "../assets/sleeping-giant.jpeg",
+        "difficulty": "difficult",
+        "miles": 3.1,
+        "terrain":"rugged",
+        "duration": "1h:27min",
+        "overview": "Sleeping Giant State Park charges an entrance fee for out-of-state registered vehicles. Fees vary on weekends/holidays versus on weekdays. The Tower Trail is the most popular trail at Sleeping Giant. This trail to the 739 foot summit of Mount Carmel starts at the picnic area across from Quinnipiac University. It is wide and meanders up the side of Mount Carmel ending at a 4-story stone observation tower.",
+        "website":"https://www.theoutbound.com/connecticut/hiking/hike-the-tower-trail-to-the-blue-trail-at-sleeping-giant-sp"
     },
 
     {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
-    },
-
-    {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
-    },
-
-    {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
-    },
-
-    {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
-    },
-
-    {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
-    },
-
-    {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
-    },
-
-    {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
-    },
-
-    {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
-    },
-
-    {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
-    },
-
-    {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
-    },
-
-    {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
-    },
-
-    {
-        "name": "",
-        "location": "",
-        "image": "",
-        "difficulty": "",
-        "miles": 0,
-        "terrain":"",
-        "duration": "2h:24min",
-        "overview": "",
-        "website":""
+        "name": "Wadsworth Falls Loop",
+        "location": "Middletown, CT",
+        "image": "../assets/wadsworth-falls.jpeg",
+        "difficulty": "intermediate",
+        "miles":3.6,
+        "terrain":"rugged",
+        "duration": "1h:28min",
+        "overview": "This can be a good place to hike after a snowstorm, because it's one of the first areas to get packed down. At one point there's a Giant Laurel. After going over two stone bridges, the trail arrives at Laurel Grove Rd, across from the Wadsworth Mansion. There are a number of side trails, to include one the takes you to Birch Ridge. There is also a side trail that leads to the pond.",
+        "website":"https://portal.ct.gov/DEEP/State-Parks/Parks/Wadsworth-Falls-State-Park"
     }
-
-
-
-
 
 ]
 
