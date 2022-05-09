@@ -9,9 +9,9 @@ Trail.find({})
         trails.forEach(trail => {
             let trailJSON = trailRawData.find(trailJSON => trailJSON.name === trail.name)
             Review.findOne({title: trailJSON.review})
-                .then(kingdom => {
-                    monarch.kingdom = kingdom._id
-                    monarch.save()
+                .then(review => {
+                    trail.review = review._id
+                    trail.save()
                 })
         })
     })
