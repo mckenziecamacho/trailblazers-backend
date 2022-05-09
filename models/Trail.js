@@ -11,10 +11,10 @@ const trailSchema = new mongoose.Schema(
         duration: String,
         overview: String,
         website: String,
-        review: {
+        review: [{
             type: mongoose.Schema.Types.ObjectId,
             ref: 'Review'
-        }
+        }]
     })
 
 const Trail = mongoose.model("Trail",trailSchema);
