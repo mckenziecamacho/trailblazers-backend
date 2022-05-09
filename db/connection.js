@@ -2,7 +2,14 @@ const mongoose = require("mongoose");
 
 mongoose.Promise = Promise;
 
-const mongoURI = "mongodb://localhost/trail-api";
+// const mongoURI = "mongodb://localhost/trail-api";
+let mongoURI = "";
+
+if (process.env.NODE_ENV === "production") {
+    mongoURI = process.env.DB_URL;
+  } else {
+    mongoURI = "mongodb://localhost/trail-api";
+  }
 
 mongoose
   .connect(mongoURI, { useNewUrlParser: true },{ useUnifiedTopology: true })
