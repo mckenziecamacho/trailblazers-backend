@@ -1,7 +1,13 @@
-const express = require ("express");
+
+const express = require("express");
+const dotenv = require("dotenv").config()
+
 const app = express();
 
-app.use(require("./routes/index.js"));
+// app.use(require("./routes/index.js"));
+app.use(express.json())
+app.use(express.urlencoded({ extended: true}))
+
 
 app.set("port", process.env.PORT || 8080);
 
@@ -10,6 +16,5 @@ app.listen(app.get("port"), () => {
 });
 
 // app.listen(4000, () => console.log("Running on port 4000"));
-
 // ??another comment
 
