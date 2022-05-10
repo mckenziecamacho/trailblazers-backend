@@ -13,6 +13,7 @@ const trailSchema = new mongoose.Schema(
         website: String,
         review: [{
             type: mongoose.Schema.Types.ObjectId,
+            text: String,
             ref: 'Review'
         }]
     })
