@@ -33,7 +33,8 @@ const reviewInfo = reviewRawData.map(reviewRawItem => {
     newReview.title = reviewRawItem.title
     newReview.rating = reviewRawItem.rating
     newReview.body = reviewRawItem.body
-    newReview.author = newReview.author
+    newReview.author = reviewRawItem.author
+    return newReview;
 })
 
 Review.deleteMany({})
