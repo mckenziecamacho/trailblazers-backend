@@ -4,12 +4,15 @@ const dotenv = require("dotenv").config()
 
 const app = express();
 
-// app.use(require("./routes/index.js"));
+app.use(require("./routes/index.js"));
 app.use(express.json())
-app.use(express.urlencoded({ extended: true}))
-
+app.use(express.urlencoded({ extended: true }))
 
 app.set("port", process.env.PORT || 8080);
+
+app.get('/', (req, res) => {
+  res.send('Hello World!')
+})
 
 app.listen(app.get("port"), () => {
   console.log(`✅ PORT: ${app.get("port")} 🌟`);
