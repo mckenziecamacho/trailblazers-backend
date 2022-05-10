@@ -9,8 +9,9 @@ Trail.find({})
         trails.forEach(trail => {
             let trailJSON = trailRawData.find(trailJSON => trailJSON.name === trail.name)
             Review.findEach({title: trailJSON.review})
+            let reviewJSON = reviewRawData.find(reviewJSON => reviewJSON.name === review.name)
                 .then(reviews => {
-                    trail.reviews = [(reviews._id, reviews.title,reviews.rating,reviews.body,reviews.author,rev-code)]
+                    trail.reviews = [(reviews._id, reviews.title,reviews.rating,reviews.body,reviews.author,rev_code)]
                     trail.save()
                 })
         })
