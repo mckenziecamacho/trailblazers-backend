@@ -7,6 +7,7 @@ app.use(require("./routes/index.js"));
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 app.use(cors());
+
 app.use(function (req, res, next) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
