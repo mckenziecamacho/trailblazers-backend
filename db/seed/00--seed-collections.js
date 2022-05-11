@@ -27,13 +27,14 @@ Trail.deleteMany({})
             console.log (error)
         })
     })
+    const reviewInfo = reviewRawData.map(reviewRawItem => {
+        const newReview = {}
+        newReview.title = reviewRawItem.title
+        newReview.rating = reviewRawItem.rating
+        newReview.body = reviewRawItem.body
+        newReview.author = reviewRawItem.author
+        return newReview;
 
-const reviewInfo = reviewRawData.map(reviewRawItem => {
-    const newReview = {}
-    newReview.title = reviewRawItem.title
-    newReview.rating = reviewRawItem.rating
-    newReview.body = reviewRawItem.body
-    newReview.author = newReview.author
 })
 
 Review.deleteMany({})
@@ -45,4 +46,4 @@ Review.deleteMany({})
         .catch(error =>{
             console.log(err)
         })
-    })
+}   )
