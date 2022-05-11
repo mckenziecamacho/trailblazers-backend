@@ -35,6 +35,16 @@ Trail.deleteMany({})
         newReview.author = reviewRawItem.author
         return newReview;
 
+<<<<<<< HEAD
+=======
+const reviewInfo = reviewRawData.map(reviewRawItem => {
+    const newReview = {}
+    newReview.title = reviewRawItem.title
+    newReview.rating = reviewRawItem.rating
+    newReview.body = reviewRawItem.body
+    newReview.author = reviewRawItem.author
+    return newReview;
+>>>>>>> a5d491ff08893091e5f160ef683cab27790b3498
 })
 
 Review.deleteMany({})
