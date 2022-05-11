@@ -3,7 +3,7 @@
     {
         "name": "Mt. Frissell Trail",
         "location": "Salisbury,CT",
-        "image": "../assets/mount-frissell.jpeg",
+        "image": "./assets/mount-frissell.jpeg",
         "difficulty": "Difficult",
         "miles": 2.7,
         "terrain":"rugged path",
