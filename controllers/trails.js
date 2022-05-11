@@ -1,6 +1,5 @@
 const Trail = require("../models/Trail");
 
-
 module.exports = {
   index: (req, res) => {
     Trail.find({})

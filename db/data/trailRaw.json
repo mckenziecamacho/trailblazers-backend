@@ -3,7 +3,7 @@
     {
         "name": "Mt. Frissell Trail",
         "location": "Salisbury,CT",
-        "image": "../assets/mount-frissell.jpeg",
+        "image": "https://cdn2.apstatic.com/photos/hike/7051090_medium_1555692074.jpg",
         "difficulty": "Difficult",
         "miles": 2.7,
         "terrain":"rugged path",
@@ -16,7 +16,7 @@
     {
         "name": "Metacomet Trail",
         "location": "Meriden, CT",
-        "image": "../assets/Metacomet.jpeg",
+        "image": "https://cdn2.apstatic.com/photos/hike/7058768_medium_1557949000.jpg",
         "difficulty": "Intermediate/Difficult",
         "miles": 57.6,
         "terrain":"path to rugged",
@@ -29,7 +29,7 @@
     {
         "name": "Farmington Canal Heritage Trail",
         "location": "Farmington, CT",
-        "image": "../assets/farmington-canal.jpg",
+        "image": "https://www.cheshireherald.com/getattachment/7e77fa08-a4b2-4cb0-b929-60feb138a7b3/News-LinearTrailSafety-CH-02252021-ph01",
         "difficulty": "easy",
         "miles":20.8,
         "terrain":"paved",
@@ -42,7 +42,7 @@
     {
         "name": "Ferry Landing Boardwalk",
         "location": "Old Saybrook, CT",
-        "image": "../assets/old-saybrook.jpeg",
+        "image": "https://ap.rdcpix.com/b3f80ae2b63ced9194ccb92443cc90f4l-m3532547959s-w642_h420_q75.jpg",
         "difficulty": "easy",
         "miles": 0.6,
         "terrain":"flat boardwalk",
@@ -55,7 +55,7 @@
     {
         "name": "Castle Craig",
         "location": "Meriden",
-        "image": "../assets/castle-craig.jpeg",
+        "image": "http://www.gallery53.org/uploads/1/0/4/3/10434069/s751765494173348636_p97_i1_w640.jpeg",
         "difficulty": "moderate",
         "miles": 2.8,
         "terrain":"rugged",
@@ -68,7 +68,7 @@
     {
         "name": " Ragged Mountain Loop",
         "location": "Berlin, CT",
-        "image": "../assets/ragged-mountain-loop.jpeg",
+        "image": "https://www.hikingupward.com/OVH/RaggedMountain/images/112418/IMG_2891.jpg",
         "difficulty": "Difficult",
         "miles": 5.6,
         "terrain":"rugged",
@@ -81,7 +81,7 @@
     {
         "name": "Bluff Point Coastal Reserve Trail",
         "location": "Groton, CT",
-        "image": "../assets/bluff-point-coastal.jpeg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/All_aboard_the_Charles_F_Mercer.jpg/1200px-All_aboard_the_Charles_F_Mercer.jpg",
         "difficulty": "",
         "miles": 3.6,
         "terrain":"gravel path",
@@ -94,7 +94,7 @@
     {
         "name": "Roxbury Mines",
         "location": "Roxbury, CT",
-        "image": "../assets/roxbury-mines.jpeg",
+        "image": "https://www.ctvisit.com/sites/default/files/MineHillPreserve_1.JPG",
         "difficulty": "difficult",
         "miles": 3.6,
         "terrain":"varied",
@@ -106,8 +106,8 @@
 
     {
         "name": "Sleeping Giant Tower Trail",
-        "location": "Handen, CT",
-        "image": "../assets/sleeping-giant.jpeg",
+        "location": "Hamden, CT",
+        "image": "https://www.ontarioparks.com/parksblog/wp-content/uploads/2016/09/Sleeping-Giant-vista-900x600.jpg",
         "difficulty": "difficult",
         "miles": 3.1,
         "terrain":"rugged",
@@ -120,7 +120,7 @@
     {
         "name": "Wadsworth Falls Loop",
         "location": "Middletown, CT",
-        "image": "../assets/wadsworth-falls.jpeg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Wadsworth_Falls_State_Park_-_falls.jpg",
         "difficulty": "intermediate",
         "miles":3.6,
         "terrain":"rugged",
